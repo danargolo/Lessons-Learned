@@ -6,3 +6,20 @@ body {
     position: fixed;
     top: 0px;
 }
+
+
+.lado-esquerdo {
+    display: inline-block;
+    border: 3px solid black;
+    width: 45%;
+    text-align: justify;
+        
+}
+
+.lado-direito {
+    display: inline-block;
+    border: 3px solid black;
+    width: 45%; 
+    text-align: justify;
+    
+}
