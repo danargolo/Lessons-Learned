@@ -7,19 +7,27 @@ body {
     top: 0px;
 }
 
+#artigo {
+    display: inline-flex;
+    align-content:flex-start;
+    justify-content:space-between;
+
+}
 
 .lado-esquerdo {
     display: inline-block;
     border: 3px solid black;
-    width: 45%;
+    width: 50%;
     text-align: justify;
+    padding: 10px;
         
 }
 
 .lado-direito {
     display: inline-block;
     border: 3px solid black;
-    width: 45%; 
+    width: 30%;
     text-align: justify;
-    
+    padding: 10px;
+
 }
